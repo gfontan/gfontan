@@ -15,16 +15,10 @@
 
 ## Cómo Contribuir
 
-¡Toda ayuda es bienvenida! Si quieres contribuir, sigue estos pasos:
-
-1. Haz un fork del proyecto.
-2. Crea una nueva rama ().
-3. Haz tus cambios y commitea ().
-4. Haz un push a la rama ().
-5. Abre un Pull Request.
+¡Toda ayuda es bienvenida! Si quieres contribuir, estare muy agradecido. 😊
 
 ## Conéctate Conmigo
 
 - 💼 LinkedIn: [www.linkedin.com/in/gonzalo-fontán-castellanos-a889592a6]
 
-¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y no dudes en contactarme. ¡Hagamos cosas increíbles juntos! 🚀✨
+¡Gracias por pasar por aquí! Siéntete libre de explorar mis proyectos y no dudes en contactarme. 🚀✨
