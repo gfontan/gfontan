@@ -1,6 +1,6 @@
 # ¡Hola, soy [Gonzalo]! 👋
 
-¡Bienvenido a mi rincón de código! Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) con una pasión desbordante por transformar ideas en código.
+¡Bienvenido a mi rincón de código! Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
 ## Sobre Mí
 
