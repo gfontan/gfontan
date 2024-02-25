@@ -1,6 +1,6 @@
 # ¡Hola, soy [Gonzalo]! 👋
 
-¡Bienvenido a mi rincón de código! Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
+¡Bienvenido! Soy un Desarrollador de aplicaciones multiplataforma.
 
 ## Sobre Mí
 
