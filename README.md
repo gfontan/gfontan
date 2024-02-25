@@ -11,7 +11,7 @@
 
 ### [Medical]
 
-[Es una app de uso medico para pacientes y doctores]
+[Es uuna app de uso medico para implementar en hospitales o clinicas, en esta app puedes concertar citas como paciente y llevar un control de tus citas como medico]
 
 ## Cómo Contribuir
 
